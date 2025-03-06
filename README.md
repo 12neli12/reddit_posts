@@ -2,7 +2,7 @@
 
 This script uses PRAW library to fetch 5 latest posts of a certain subreddit. It handles authentication, API errors, and some of the most common errors.
 
-## Neccesities
+## Necessities
 
 Beforehand you should have:
 - Python 3 installed
