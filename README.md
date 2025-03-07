@@ -37,7 +37,7 @@ Beforehand you should have:
 
 Run the script:
 ```bash
-python reddit_fetch.py
+py reddit_fetch.py
 ```
 
 Modify the function call at the bottom of the script:
